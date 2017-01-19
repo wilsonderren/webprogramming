@@ -4,7 +4,11 @@
 <head>
     <meta charset="utf-8">
     <title>Web Technology style guide</title>
+    
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,400i,800" rel="stylesheet">
+    <!-- this is the style guide css file -->
     <link rel="stylesheet" href="global.css">
+    <!-- this CSS controls the style guide content template -->
     <style>
         body.pattern {
             background: #fff;
@@ -197,7 +201,7 @@ endforeach;
         <div class="pattern__intro">
             <p>Based on Jeremy Keith&#8217;s <a href="https://adactio.com/journal/5028">Pattern Primer</a>.</p>
         </div>
-        <iframe width="352" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/AtE_xQX_KbT00-JPOq0Dzw/embed?nosource"></iframe>
+        
 </body>
 
 </html>
