@@ -10,4 +10,4 @@ You can also download the global.css file (or even clone this repo) and use it a
 
 ## Remember: you can't preview the style guide from github
 
-If you want to see what it looks like, [http://55060509.webdevmmu.uk/style-guide/](go to my 34sp.com webspace).
+If you want to see what it looks like, [go to my 34sp.com webspace](http://55060509.webdevmmu.uk/style-guide/).
