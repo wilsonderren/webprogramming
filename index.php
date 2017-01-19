@@ -9,7 +9,7 @@
     <!-- this is the style guide css file -->
     <link rel="stylesheet" href="global.css">
     <!-- this CSS controls the style guide content template -->
-    <style>
+    <style type="text/css">
         body.pattern {
             background: #fff;
             padding: 100px 0;
