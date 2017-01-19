@@ -5,7 +5,6 @@
     <meta charset="utf-8">
     <title>Web Technology style guide</title>
     
-    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,400i,800" rel="stylesheet">
     <!-- this is the style guide css file -->
     <link rel="stylesheet" href="global.css">
     <!-- this CSS controls the style guide content template -->

@@ -1,4 +1,6 @@
-/* Our webfont was loaded in the HTML code */
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,400i,800');
+
+/* Our webfont was loaded by the code above */
 
 body {
     font-family: 'Nunito Sans', avenir, arial, sans-serif;
