@@ -136,10 +136,7 @@
         <h1 class="pattern__heading">Web Tech <span>style guide</span></h1>
         <p>The web tech style guide is a starting point for your projects. You can use it as it is, or &#8216;extend&#8217; it with your own CSS code.</p>
         <p>All the examples below have been built to be responsive, but may require more design and development work depending on the content you want to show in them.</p>
-        <h3>Web Programming</h3>
-        <p class="pattern__links"><a href="http://localhost/web-programming/encryptor_files/encryptorV5.html">Encryptor</a> <a href="http://localhost/web-programming/restaurant%20menu/AJAXJSON7.html">Pub menu</a> <a href="http://localhost/web-programming/shop/shop-after-5.html">Shirt</a></p>
-        <h3>Introduction to Web Development</h3>
-        <p class="pattern__links"><a href="http://localhost/webtech_project/">iSongs</a> <a href="https://studio.code.org/projects/applab/lsjXC4K8No1mAkeon2YSkQ">Pop star poll</a> <a href="https://studio.code.org/projects/applab/nNiowrMpMjQEoG_Nc7bzGQ">Playlist</a></p>
+        
     </div>
     <div class="pattern__colours">
         <div class="pattern__swatch swatch--text dark--background">
