@@ -8,3 +8,5 @@ That means you will always be using the latest version of the global.css file.
 
 You can also download the global.css file and use it as a base.
 
+ftp?
+
