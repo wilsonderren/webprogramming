@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,400i,800');
 
-/* Get our webfont */
+/* Our webfont was loaded by the code above */
 
 body {
-    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Nunito Sans', avenir, arial, sans-serif;
     color: #444;
     max-width: 1024px;
     margin: 30px auto;
