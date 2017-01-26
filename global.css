@@ -237,8 +237,12 @@ nav ul li a:hover {
 footer {
     margin-top: 5em;
     border-top: 1px solid #AEB2D1;
+<<<<<<< HEAD
     padding: 7px 0;
     font-size: 0.85em;
+=======
+    padding: 10px 0;
+>>>>>>> origin/master
 }
 
 footer a {
